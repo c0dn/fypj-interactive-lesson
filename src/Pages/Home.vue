@@ -13,9 +13,7 @@
       </p>
     </div>
     <div class="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
-      <p>
-        Home page blank
-      </p>
+      Hello world!
     </div>
   </div>
 </template>
@@ -23,10 +21,5 @@
 <script>
 export default {
   name: "HomePage",
-  components: [
-  ],
-  setup() {
-    return {}
-  },
 }
 </script>

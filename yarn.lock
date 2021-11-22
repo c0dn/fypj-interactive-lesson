@@ -40,17 +40,17 @@
   dependencies:
     "@fortawesome/fontawesome-common-types" "^0.3.0-beta2"
 
-"@fortawesome/pro-duotone-svg-icons@^6.0.0-beta2":
+"@fortawesome/free-regular-svg-icons@^6.0.0-beta2":
   version "6.0.0-beta2"
-  resolved "https://npm.fontawesome.com/@fortawesome/pro-duotone-svg-icons/-/6.0.0-beta2/pro-duotone-svg-icons-6.0.0-beta2.tgz#adbd56498fea829122e3afc981bca119a2606d5b"
-  integrity sha512-8Z3ro/svpur1A7MNIOUwPiwVdxwNfcnMJtOGGsc11KLpV/t4DrLQ4WJKL2tCfhQygGwl6/9JKTLntQynRSBUBQ==
+  resolved "https://npm.fontawesome.com/@fortawesome/free-regular-svg-icons/-/6.0.0-beta2/free-regular-svg-icons-6.0.0-beta2.tgz#74525883a0f26acc053bceb2ba00b5ecd50aa315"
+  integrity sha512-MV2T0WRunzT0aqXJOs/OLeWoY/20W/vp9w2Em4UWaYpIucOIjzxWODVkc7uz2sP7tL3jNV2n5d0kwbftLyizjg==
   dependencies:
     "@fortawesome/fontawesome-common-types" "^0.3.0-beta2"
 
-"@fortawesome/pro-regular-svg-icons@^6.0.0-beta2":
+"@fortawesome/free-solid-svg-icons@^6.0.0-beta2":
   version "6.0.0-beta2"
-  resolved "https://npm.fontawesome.com/@fortawesome/pro-regular-svg-icons/-/6.0.0-beta2/pro-regular-svg-icons-6.0.0-beta2.tgz#626b74e57ce8e2b317ef4a63189722ebe5e1e9ea"
-  integrity sha512-tH75FUmSi95mBMr9JzlL5cFWm483BGTuUTi81VaF1Cs9RzpLI8uQfb3jLsQYSsrE580epf9khBnwKrU7w/FpiQ==
+  resolved "https://npm.fontawesome.com/@fortawesome/free-solid-svg-icons/-/6.0.0-beta2/free-solid-svg-icons-6.0.0-beta2.tgz#096fe9c6ad1875fa37eb2bb99f12490480157cf6"
+  integrity sha512-xOWg5eRLuaiLKctI9rt94llZhMRn8C23jTkSxywfy2Tyy3ggtVL/ocW7KUk0IbCgWfZSy+EMsGF2ZxxWs2Mhpw==
   dependencies:
     "@fortawesome/fontawesome-common-types" "^0.3.0-beta2"
 
@@ -234,7 +234,7 @@
   resolved "https://registry.yarnpkg.com/@pixi/accessibility/-/accessibility-6.1.3.tgz#39fccd638a9c8fba7e60ae25d1acce57e6d49ecc"
   integrity sha512-JK6rtqfC2/rnJt1xLPznH2lNH0Jx9f2Py7uh50VM1sqoYrkyAAegenbOdyEzgB35Q4oQji3aBkTsWn2mrwXp/g==
 
-"@pixi/app@6.1.3", "@pixi/app@^6.1.3":
+"@pixi/app@6.1.3":
   version "6.1.3"
   resolved "https://registry.yarnpkg.com/@pixi/app/-/app-6.1.3.tgz#3a3c50788b65317ee2f394231f84efc9142870e0"
   integrity sha512-gryDVXuzErRIgY5G2CRQH6fZM7Pk3m1CFEInXEKa4rmVzfwRz+3OeU0YNSnD9atPAS5C2TaAzE4yOSHH2+wESQ==
@@ -244,17 +244,17 @@
   resolved "https://registry.yarnpkg.com/@pixi/compressed-textures/-/compressed-textures-6.1.3.tgz#1a3653decf1a826b332601c0f93f7ddc2a2d5fa2"
   integrity sha512-FO2B7GhDMlZA0fnpH2PvNOh6ZlRxQoJnNlpjzNw+x1nvF9h3+V6dbFoG9oBC5zAisTfacdfoo1TdT789Oh+kTg==
 
-"@pixi/constants@6.1.3", "@pixi/constants@^6.1.3":
+"@pixi/constants@6.1.3":
   version "6.1.3"
   resolved "https://registry.yarnpkg.com/@pixi/constants/-/constants-6.1.3.tgz#0de755b8616a5e290a7f6f61074afbe7ca9e8323"
   integrity sha512-Qvz/SIxw+dQ6P9niOEdILWX2DQ5FnGA0XZNFLW/3amekzad/+WqHobL+Mg5S6A4/a9mXTnqjyB0BqhhtLfpFkA==
 
-"@pixi/core@6.1.3", "@pixi/core@^6.1.3":
+"@pixi/core@6.1.3":
   version "6.1.3"
   resolved "https://registry.yarnpkg.com/@pixi/core/-/core-6.1.3.tgz#4a94178f211f1b66d544b7174063c546883c8234"
   integrity sha512-UQsR1Q7c+Zcvtu6HrYMidvoyF/j9n3b4WXPh3ojuNV6+ZIvps3rznoZYaIx6foEJNhj7HM9fMObsimGP+FB36A==
 
-"@pixi/display@6.1.3", "@pixi/display@^6.1.3":
+"@pixi/display@6.1.3":
   version "6.1.3"
   resolved "https://registry.yarnpkg.com/@pixi/display/-/display-6.1.3.tgz#541cbeb7d64a5253a1d5bc8f878fa7335c043f40"
   integrity sha512-8/GdapJVKfl6PUkxX/Et5zB1aXny+uy353cQX886KJ6dGle82fQAYjIn7I6Xm+JiZWOhWo0N6KE9cjotO0rroA==
@@ -294,7 +294,7 @@
   resolved "https://registry.yarnpkg.com/@pixi/filter-noise/-/filter-noise-6.1.3.tgz#e369b390202f4b930cb1eee880fca4a7f71d001e"
   integrity sha512-oVRtcJwbN6VnAnvXZuLEZ0c12JUzporao5AziXgRAUjTMA3bFVE0/7Dx193Kx/l6UAasmzhWQctuv6NMxy5Efw==
 
-"@pixi/graphics@6.1.3", "@pixi/graphics@^6.1.3":
+"@pixi/graphics@6.1.3":
   version "6.1.3"
   resolved "https://registry.yarnpkg.com/@pixi/graphics/-/graphics-6.1.3.tgz#aeb6c9acc09b023275ac5bc08c0840272588fa35"
   integrity sha512-e5O47yECRp5WXWIvKhLDQKpiak7CfIqJzuTuQIyE7jXp8QiJNw+aoWNlJEd4ksKbsDkP3EE39CxlmiaBpxNL3w==
@@ -309,12 +309,7 @@
   resolved "https://registry.yarnpkg.com/@pixi/loaders/-/loaders-6.1.3.tgz#d2f6b13b16898638d6c23639ffaa5dcbc0ae0344"
   integrity sha512-qOvy72bsVGzCmWyoofm6dm1l//hd+bJneidngplwsovpqnnyMfuewCpQjeLRL6rLqcHR40V1+Qo4iJ+ElMdVZQ==
 
-"@pixi/loaders@^6.2.0":
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/@pixi/loaders/-/loaders-6.2.0.tgz#3c21e838ee926464ef8db3adedd67c5c3801aba5"
-  integrity sha512-fkEErikWslkFycTuUYOe84rLfVRGLVT4mXIpqjS1AWHa+Q0NjhmMoSsmZbmp1NHg/gGgnta0q5kZI23X2SNyVw==
-
-"@pixi/math@6.1.3", "@pixi/math@^6.1.3":
+"@pixi/math@6.1.3":
   version "6.1.3"
   resolved "https://registry.yarnpkg.com/@pixi/math/-/math-6.1.3.tgz#a10e8ae78e33ee05cf30feb4fcd8474a9a2e4d12"
   integrity sha512-1bLZeHpG38Bz6TESwxayNbL7tztOd7gpZDXS5OiBB9n8SFZeKlWfRQ/aJrvjoBz2qsZf9gGeVKsHpC/FJz0qnA==
@@ -362,12 +357,12 @@
   resolved "https://registry.yarnpkg.com/@pixi/prepare/-/prepare-6.1.3.tgz#21cb4e8f2af841aee8771c4aeb92b7f6728706f1"
   integrity sha512-zjv81fPJjdQyWGCbA9Ij04GfwJUYA3j6/vFyJFaDKVMqEWzNDJwu40G00P23BXh3F5dYL638EXvyLYDQavjseg==
 
-"@pixi/runner@6.1.3", "@pixi/runner@^6.1.3":
+"@pixi/runner@6.1.3":
   version "6.1.3"
   resolved "https://registry.yarnpkg.com/@pixi/runner/-/runner-6.1.3.tgz#603ec9187946a16e7e17fdb6c73ea134b1610770"
   integrity sha512-hJw7O9enlei7Cp5/j2REKuUjvyyC4BGqmVycmt01jTYyphRYMNQgyF+OjwrL7nidZMXnCVzfNKWi8e5+c4wssg==
 
-"@pixi/settings@6.1.3", "@pixi/settings@^6.1.3":
+"@pixi/settings@6.1.3":
   version "6.1.3"
   resolved "https://registry.yarnpkg.com/@pixi/settings/-/settings-6.1.3.tgz#bd1c634c02a6175657009279b36a7b1f73e40565"
   integrity sha512-laKwS4/R+bTQokKIeMeMO4orvSNTMWUpNRXJbDq7N29bCrA5pT6BW+LNZ+4gJs4TFK/s9bmP/xU5BlPVKHRoyg==
@@ -384,7 +379,7 @@
   resolved "https://registry.yarnpkg.com/@pixi/sprite-tiling/-/sprite-tiling-6.1.3.tgz#e121d1098f55fe8307068ce130295d62982a440b"
   integrity sha512-om+RrModhNFljb8C1fhpGKtgt5k5AW9gCjFfeBPN+5pVdVjtc/luyO2Cbubpeow9YQldrUZri9it63GBo07Cfw==
 
-"@pixi/sprite@6.1.3", "@pixi/sprite@^6.1.3":
+"@pixi/sprite@6.1.3":
   version "6.1.3"
   resolved "https://registry.yarnpkg.com/@pixi/sprite/-/sprite-6.1.3.tgz#3d3adf37abfcbdf36166079d6640eefede6cb4a5"
   integrity sha512-TzvqeRV+bbxFbucR74c28wcDsCbXic+5dONM+fy31ejAIraKbigzKbgHxH6opgLEMMh5APzmJPlwntYdEUGSXQ==
@@ -399,17 +394,17 @@
   resolved "https://registry.yarnpkg.com/@pixi/text-bitmap/-/text-bitmap-6.1.3.tgz#d4f75a6e50236eb6e36d2ea2be0b86653a5bf0dc"
   integrity sha512-x46qOVoosl67dBrG3mgd2eQx3A9NTxWUnzgRpk5vsNfLLNRu6XlM+YoscRMuHT5sLEEBLewjcVxzAAkrSW45eQ==
 
-"@pixi/text@6.1.3", "@pixi/text@^6.1.3":
+"@pixi/text@6.1.3":
   version "6.1.3"
   resolved "https://registry.yarnpkg.com/@pixi/text/-/text-6.1.3.tgz#199dabee7693bfde50da397ad149c403b040934e"
   integrity sha512-R0D3cbwwLbQOfobja4NGhq0bF7biCfNE3PXsOmTEsWOroVJqUexIob5XZXoT9Avy3B8nlrB2Hyl5imIQx60jFw==
 
-"@pixi/ticker@6.1.3", "@pixi/ticker@^6.1.3":
+"@pixi/ticker@6.1.3":
   version "6.1.3"
   resolved "https://registry.yarnpkg.com/@pixi/ticker/-/ticker-6.1.3.tgz#cbfed106bed40677349639263dfc5662044acb18"
   integrity sha512-ZSuhe5HrmkDoqSIZjETUGYCQr/EbtDQGngq0LQLAgblyhAJbi4p/B3uf2XGfRNZ7Tdxdl0j81BmUqBEu2+DeoA==
 
-"@pixi/utils@6.1.3", "@pixi/utils@^6.1.3":
+"@pixi/utils@6.1.3":
   version "6.1.3"
   resolved "https://registry.yarnpkg.com/@pixi/utils/-/utils-6.1.3.tgz#322341ed314b70055d56bf1e9898ee99a58ff525"
   integrity sha512-05mm9TBbpYorYO3ALC4CVgR5K6sA/0uhnwE/Zl4ZhNJZN699LrIr0OWFQhxhySeGUPMDaizeEZpn2rhx+CYYpg==
@@ -638,6 +633,11 @@
   dependencies:
     "@vue/compiler-dom" "3.2.20"
     "@vue/shared" "3.2.20"
+
+"@vue/devtools-api@^6.0.0-beta.11":
+  version "6.0.0-beta.20.1"
+  resolved "https://registry.yarnpkg.com/@vue/devtools-api/-/devtools-api-6.0.0-beta.20.1.tgz#5b499647e929c35baf2a66a399578f9aa4601142"
+  integrity sha512-R2rfiRY+kZugzWh9ZyITaovx+jpU4vgivAEAiz80kvh3yviiTU3CBuGuyWpSwGz9/C7TkSWVM/FtQRGlZ16n8Q==
 
 "@vue/devtools-api@^6.0.0-beta.18":
   version "6.0.0-beta.19"
@@ -1738,6 +1738,11 @@ get-stream@^6.0.0:
   resolved "https://registry.yarnpkg.com/get-stream/-/get-stream-6.0.1.tgz#a262d8eef67aced57c2852ad6167526a43cbf7b7"
   integrity sha512-ts6Wi+2j3jQjqi70w5AlN8DFnkSwC+MqmxEzdEALB2qXZYV3X/b1CTfgPLGJNMeAWxdPfU8FO1ms3NUfaHCPYg==
 
+getopts@^2.2.5:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/getopts/-/getopts-2.3.0.tgz#71e5593284807e03e2427449d4f6712a268666f4"
+  integrity sha512-5eDf9fuSXwxBL6q5HX+dhDj+dslFGWzU5thZ9kNKUkcPtaPdatmUFKwHFrLb/uf/WpA4BHET+AX3Scl56cAjpA==
+
 getpass@^0.1.1:
   version "0.1.7"
   resolved "https://registry.yarnpkg.com/getpass/-/getpass-0.1.7.tgz#5eff8e3e684d569ae4cb2b1282604e8ba62149fa"
@@ -2478,6 +2483,11 @@ minizlib@^2.0.0, minizlib@^2.1.1:
   dependencies:
     minipass "^3.0.0"
     yallist "^4.0.0"
+
+mitt@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/mitt/-/mitt-3.0.0.tgz#69ef9bd5c80ff6f57473e8d89326d01c414be0bd"
+  integrity sha512-7dX2/10ITVyqh4aOSVI9gdape+t9l2/8QxHrFmUXu4EEUpdlxl6RudZUPZoc+zuY2hk1j7XxVroIVIan/pD/SQ==
 
 mkdirp-infer-owner@^2.0.0:
   version "2.0.0"
@@ -3752,6 +3762,12 @@ vm2@^3.9.2:
   resolved "https://registry.yarnpkg.com/vm2/-/vm2-3.9.5.tgz#5288044860b4bbace443101fcd3bddb2a0aa2496"
   integrity sha512-LuCAHZN75H9tdrAiLFf030oW7nJV5xwNMuk1ymOZwopmuK3d2H4L1Kv4+GFHgarKiLfXXLFU+7LDABHnwOkWng==
 
+vue-command@./vue-command:
+  version "23.0.1"
+  dependencies:
+    getopts "^2.2.5"
+    mitt "^3.0.0"
+
 vue-router@^4.0.12:
   version "4.0.12"
   resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-4.0.12.tgz#8dc792cddf5bb1abcc3908f9064136de7e13c460"
@@ -3769,6 +3785,13 @@ vue@^3.0.11:
     "@vue/runtime-dom" "3.2.20"
     "@vue/server-renderer" "3.2.20"
     "@vue/shared" "3.2.20"
+
+vuex@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/vuex/-/vuex-4.0.2.tgz#f896dbd5bf2a0e963f00c67e9b610de749ccacc9"
+  integrity sha512-M6r8uxELjZIK8kTKDGgZTYX/ahzblnzC4isU1tpmEuOIIKmV+TRdc+H4s8ds2NuZ7wpUTdGRzJRtoj+lI+pc0Q==
+  dependencies:
+    "@vue/devtools-api" "^6.0.0-beta.11"
 
 walk-up-path@^1.0.0:
   version "1.0.0"
@@ -3818,11 +3841,6 @@ xtend@^4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.2.tgz#bb72779f5fa465186b1f438f674fa347fdb5db54"
   integrity sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==
-
-xterm@^4.14.1:
-  version "4.14.1"
-  resolved "https://registry.yarnpkg.com/xterm/-/xterm-4.14.1.tgz#6884cb8fb3b83353b1a98139ea23daedf8e35796"
-  integrity sha512-jgzNg5BuGPwq5/M4dGnmbghZvHx2jaj+9crSEt15bV34Za49VziBmCu7zIy88zUKKiGTxeo7aVzirFSJArIMFw==
 
 yallist@^4.0.0:
   version "4.0.0"
