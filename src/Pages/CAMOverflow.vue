@@ -471,7 +471,7 @@ export default {
 <style>
 .activity-layout {
   display: grid;
-  grid-template-rows: repeat(auto-fill, minmax(0, 1fr));
+  height: calc(100vh - 52px);
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 
@@ -492,7 +492,7 @@ export default {
   max-height: 390px;
   min-width: 700px;
   max-width: 700px;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 </style>

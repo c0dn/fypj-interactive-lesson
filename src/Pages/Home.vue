@@ -13,7 +13,7 @@
       </p>
     </div>
     <div class="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
-      Hello world!
+      Redirecting to CAM attack....
     </div>
   </div>
 </template>
@@ -21,5 +21,10 @@
 <script>
 export default {
   name: "HomePage",
+  mounted() {
+    setTimeout(() => {
+      this.$router.push('/cam/');
+    }, 1000);
+  }
 }
 </script>
