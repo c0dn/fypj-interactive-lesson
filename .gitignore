@@ -3,3 +3,10 @@ build
 node_modules
 yarn-error.log
 .firebaserc
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
